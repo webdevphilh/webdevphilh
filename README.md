@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello there, my name is Philip. I started my journey on development in the last december. In the long run I want to make a work change into frontend development. It´s hat to learn besites my job but I try to focus every free minute. It´s so fun to learn about this whole world.
+Hello there, my name is Philip. I started my journey on development in the last december. In the long run I want to make a work change into frontend development. It´s hard to learn besites my job but I try to focus every free minute. It´s so fun to learn about this whole world.
 
 
 - 🔭 I’m currently working on ...
