@@ -8,6 +8,10 @@ Hello there, my name is Philip. I started my journey on development in the last 
 - learning some beginner JavaScript
 
 
+- 🤔 I’m looking for ...
+- if you have some advice on my projects, I´d very much appreciate every prodoctive opinion
+
+
 <!--
 **webdevphilh/webdevphilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
