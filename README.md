@@ -1,11 +1,18 @@
 ### Hi there 👋
 
+Hello there, my name is Philip. I started my journey on development in the last december. In the long run I want to make a work change into frontend development. It´s hat to learn besites my job but I try to focus every free minute. It´s so fun to learn about this whole world.
+
+
+- 🔭 I’m currently working on ...
+- frontend mentor challenges, to train my scss/html skills
+- learning some beginner JavaScript
+
+
 <!--
 **webdevphilh/webdevphilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
