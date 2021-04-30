@@ -6,6 +6,7 @@ Hello there, my name is Philip. I started my journey on development in the last 
 - 🔭 I’m currently working on ...
 - frontend mentor challenges, to train my scss/html skills
 - learning some beginner JavaScript
+- atm Im working on a website-sideproject where the user compares a digital library with a local library to locate books that doesn´t need to be scanned for digitalisation.
 
 
 - 🤔 I’m looking for ...
